@@ -2,7 +2,7 @@
 
 ## Description
 This project is a personal resume website built using *HTML*.  
-It showcases personal details, skills, education, and experience in a clean and responsive layout.
+The project displays personal and professional information in a structured format.
 
 ## Live Demo
 (Will be added after GitHub Pages setup)
