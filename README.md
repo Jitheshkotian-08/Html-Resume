@@ -22,7 +22,7 @@ The project displays personal and professional information in a structured forma
 - Scroll through different sections of the resume
 
 ## Screenshots
-
+![Resume Screenshot](screenshots/resume.png)
 
 ## Author
 Jithesh Kotian
