@@ -5,7 +5,7 @@ This project is a personal resume website built using *HTML*.
 The project displays personal and professional information in a structured format.
 
 ## Live Demo
-https://jitheshkotian-08.github.io/Html-Resume/resume.html
+https://jitheshkotian-08.github.io/Html-Resume/
 
 ## Technologies Used
 - HTML5
